@@ -1,0 +1,9 @@
+#content > .about {
+    font-size: 2rem;
+    color: red;
+}
+
+#content > .home {
+    font-size: 2rem;
+    color: blue;
+}
